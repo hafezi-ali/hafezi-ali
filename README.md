@@ -1,77 +1,51 @@
-<!--
-**alihafezii/alihafezii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there! 👋 I'm Ali </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="mailto:alihafezi.data@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/alihafezii/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://alihafezi.site">
+    <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
+  </a>
+</div>
 
-<h1 align="center">Hi 👋, I'm Ali </h1>
+<h3 align="center">Machine Learning Researcher & Full-Stack Developer who loves solving real-world puzzles! 🧩</h3>
+
 <p align="center">
-	<a href="mailto:alihafezi.data@gmail.com" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
-	</a>
-	<a href="https://www.linkedin.com/in/alihafezii/" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
-	</a>
-	<a href="https://alihafezi.site" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
-	</a>
-</p>
-<h3 align="center">A passionate Machine Learning Researcher and Full-Stack Developer</h3>
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5bDQ4cDAycWVxMmI5MWQzcDZzOGZ0b3ZxZ3RhcmNmbmQ5eXB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy-downsized-large.gif" alt="coding" width="300"></p>
-
-<h2 align="left">Who am I?</h2>
-<p>
-👨‍💻 AI and Machine Learning researcher with a Master's in Electrical Engineering from the University of Tehran. Currently focused on developing innovative solutions in Dynamic Ensemble Learning and Pattern Recognition.
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5bDQ4cDAycWVxMmI5MWQzcDZzOGZ0b3ZxZ3RhcmNmbmQ5eXB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy-downsized-large.gif" alt="coding" width="300">
 </p>
 
-<h2 align="left">Expertise</h2>
-<details open>
-   <summary><b> Expand for more 🔽</b></summary>
-<ul>
-  <li>🎨 Machine Learning & Deep Learning.</li>
-  <li>🔧 Ensemble Learning Methods.</li>
-  <li>🔬 Pattern Recognition.</li>
-  <li>🔧 Ensemble Learning Methods.</li>
-  <li>🔬 Pattern Recognition.</li>
-  <li>🔧 Data Mining & Analysis.</li>
-  <li>🔬 Statistical Modeling.</li>
-  <li>🔬 LLMs & Transformers.</li>
-  <li>🔬 Computer Vision & OCR.</li>
-</ul>
+## A Bit About Me 😊
+
+Hey! I'm an AI enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love diving deep into machine learning challenges and building cool stuff that actually helps people! My passion lies in making complex AI systems that are both powerful and practical. 
+
+## What I Love Working With 
+
+<details>
+<summary><b>Click to see what keeps me busy! ✨</b></summary>
+
+- 🧠 Machine Learning & Deep Learning Magic
+- 🎨 Creative Ensemble Learning Methods
+- 📊 Pattern Recognition & Statistical Modeling
+- 🤖 Fun with Large Language Models & Transformers
+- 👁️ Computer Vision Adventures
+- 💡 Data Mining & Analysis
+
 </details>
 
+## What I'm Up To Now 
 
-<h2 align="left">Current Work</h2>
-<ul>
-  <li>🕵️‍ Advancing ensemble learning: Innovating techniques such as mixture of experts and classifier fusions to enhance predictive analytics and decision-making.</li>
-  <li>🎨 Developing and optimizing AI models for practical and academic applications.</li>
-  <li>🔧 Building scalable and efficient web solutions using Django and REST APIs.</li>
-  <li>🔬 Exploring advanced statistical techniques and data-driven insights for impactful results.</li>
-</ul>
+- 🔍 Exploring new frontiers in ensemble learning with some really exciting experiments!
+- 🛠️ Building AI models that solve real-world problems
+- 💻 Creating awesome web solutions using Django and REST APIs
+- 📈 Using data to tell interesting stories and make smart decisions
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-	<a href="mailto:alihafezi.data@gmail.com" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
-	</a>
-	<a href="https://www.linkedin.com/in/alihafezii/" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
-	</a>
-	<a href="https://alihafezi.site" target="_blank">
-		<img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
-	</a>
-</p>
+## My Tool Box 
 
-<h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="50" width="50" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" height="50" width="50" />
@@ -91,6 +65,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="50" width="50" />
 </p>
 
+## When I'm Not Coding... 🌱
 
-<h3 align="left">Fun Fact:</h3>
-<p>I’m also an ecotourism enthusiast who loves exploring nature and supporting sustainable travel practices!</p>
+<p>Outside the realm of machine learning, I enjoy expressing myself through music, exploring nature through hiking and ecotourism, delving into historical studies, learning about diverse cultures, and immersing myself in thought-provoking films. You can explore some of my favorite collected albums on my <a href="https://soundcloud.com/a-hfz-697801203?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">SoundCloud profile</a>.<a href="https://soundcloud.com/a-hfz-697801203?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/soundcloud.png" alt="SoundCloud" height="40" width="40" />
+  </a> </p>
+
+## Let's Connect! 🤝
+
+Feel free to reach out if you want to collaborate on projects, chat about AI, or share hiking trail recommendations! 😊
