@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ali </h1>
+<p align="center">
+	<a href="mailto:alihafezi.data@gmail.com" target="_blank">
+		<img align="center" src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
+	</a>
+	<a href="https://www.linkedin.com/in/alihafezii/" target="_blank">
+		<img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
+	</a>
+	<a href="https://alihafezi.site" target="_blank">
+		<img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
+	</a>
+</p>
 <h3 align="center">A passionate Machine Learning Researcher and Full-Stack Developer</h3>
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5bDQ4cDAycWVxMmI5MWQzcDZzOGZ0b3ZxZ3RhcmNmbmQ5eXB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy-downsized-large.gif" alt="coding" width="300"></p>
 
