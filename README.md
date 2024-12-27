@@ -21,7 +21,7 @@
 
 ## A Bit About Me 😊
 
-Hey! I'm an AI enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love diving deep into machine learning challenges and building cool stuff that actually helps people! My passion lies in making complex AI systems that are both powerful and practical. 
+Hey! I'm an ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love diving deep into machine learning challenges and building cool stuff that actually helps people! My passion lies in making complex AI systems that are both powerful and practical. 
 
 ## What I Love Working With 
 
