@@ -7,19 +7,19 @@
   <img src="images/cover.png" alt="Welcome animation" width="auto">
 </p>
 <div align="center">
+  <p>
+    <a href="mailto:alihafezi.data@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/email-alihafezi.data%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white&labelColor=111827"/>
+    </a>
 
-<a href="mailto:alihafezi.data@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-alihafezi.data%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white&labelColor=111827&v=1"/>
-</a>
+    <a href="https://www.linkedin.com/in/alihafezii/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-alihafezii-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111827"/>
+    </a>
 
-<a href="https://www.linkedin.com/in/alihafezii/">
-  <img src="https://img.shields.io/badge/LINKEDIN-alihafezii-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=111827&v=1"/>
-</a>
-
-<a href="https://alihafezi.site">
-  <img src="https://img.shields.io/badge/PORTFOLIO-alihafezi.site-7C3AED?style=flat&logo=googlechrome&logoColor=white&labelColor=111827&v=1"/>
-</a>
-
+    <a href="https://alihafezi.site" target="_blank">
+      <img src="https://img.shields.io/badge/portfolio-alihafezi.site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111827"/>
+    </a>
+  </p>
 </div>
 
   
