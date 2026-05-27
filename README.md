@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-Hey! I'm a Data Scientist and ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love the challenge of bridging the gap between complex algorithms and practical, real-world solutions. 
+Hey! I'm a Data Scientist with a Master's in Electrical Engineering from the University of Tehran. I love the challenge of bridging the gap between complex algorithms and practical, real-world solutions. 
 
 My passion lies in architecting AI systems that are both mathematically rigorous and genuinely helpful. Whether I'm training a new machine learning model, developing business intelligence dashboards, or optimizing AI workflows, my goal is always to turn raw data into smart, actionable decisions!
 
