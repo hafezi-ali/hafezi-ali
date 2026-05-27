@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=58A6FF&center=true&vCenter=true&width=550&lines=Ali+Hafezi+%F0%9F%91%8B;ML+Engineer+%7C+Ensemble+Learning;Practical+AI+for+Real+World" alt="Ali Hafezi">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=58A6FF&center=true&vCenter=true&width=550&lines=Ali+Hafezi+%F0%9F%91%8B;Data+Sceintist+%7C+Ensemble+Learning;Practical+AI+for+Real+World" alt="Ali Hafezi">
 </h1>
 
 <div align="center">
