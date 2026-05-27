@@ -18,8 +18,8 @@
   <img src="images/cover.png" alt="Welcome animation" width="auto">
 </p>
 
-<p dir="ltr">
-  
+<div align="left">
+
 ## A Bit About Me 😊
 
 Hey! I'm an ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love diving deep into machine learning challenges and building cool stuff that actually helps people! My passion lies in making complex AI systems that are both powerful and practical. 
@@ -75,4 +75,5 @@ Hey! I'm an ML enthusiast with a Master's in Electrical Engineering from the Uni
 ## Let's Connect! 🤝
 
 Feel free to reach out if you want to collaborate on projects, chat about AI, or share hiking trail recommendations! 😊
-</p>
+
+</div>
