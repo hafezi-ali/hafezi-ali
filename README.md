@@ -17,8 +17,7 @@
   <a href="https://alihafezi.site">
     <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
   </a>
-<h3 align="center">Data Scientist who loves solving real-world puzzles! 🧩</h3>
-
+  
 <div align="left">
 
 ## A Bit About Me 😊
