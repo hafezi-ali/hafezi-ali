@@ -9,14 +9,16 @@
 
  <div align="center">
 
-  
+<div align="center"> 
 
+  [![Email](https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
 
-<div align="center">
-  [![Email](https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Falihafezii-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=flat-square&logo=gitbook&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Falihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+
 </div>
 
-  
 <div align="left">
 
 ## A Bit About Me 😊
