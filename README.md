@@ -8,16 +8,14 @@
 </p>
 
 <div align="center">
-  <a href="mailto:alihafezi.data@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/alihafezii/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="https://alihafezi.site">
-    <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
-  </a>
+  
+  [![📧 Email](https://img.shields.io/badge/📧_Email-Reply%20within%2024h-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
+  [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Open%20to%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
+  [![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+  
 </div>
+
+
   
 <div align="left">
 
