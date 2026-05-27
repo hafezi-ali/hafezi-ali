@@ -3,6 +3,10 @@
 
 </h1>
 
+<p align="center">
+  <img src="images/cover.png" alt="Welcome animation" width="auto">
+</p>
+
 <div align="center">
   <a href="mailto:alihafezi.data@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
@@ -14,10 +18,6 @@
     <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
   </a>
 <h3 align="center">Data Scientist who loves solving real-world puzzles! 🧩</h3>
-
-<p align="center">
-  <img src="images/cover.png" alt="Welcome animation" width="auto">
-</p>
 
 <div align="left">
 
