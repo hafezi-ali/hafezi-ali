@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h3 align="center">Machine Learning Researcher & Full-Stack Developer who loves solving real-world puzzles! 🧩</h3>
+<h3 align="center">ML Engineer who loves solving real-world puzzles! 🧩</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t5bDQ4cDAycWVxMmI5MWQzcDZzOGZ0b3ZxZ3RhcmNmbmQ5eXB6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy-downsized-large.gif" alt="coding" width="300">
