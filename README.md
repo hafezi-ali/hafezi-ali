@@ -12,23 +12,13 @@
   
 
 
-  [![📧
-
-Email](https://img.shields.io/badge/📧_Email-Reply%20within%2024h-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
-
-
-  [![💼
-
-LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Open%20to%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
-
-
-  [![🌐
-
-Portfolio](https://img.shields.io/badge/🌐_Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
-
+<div align="center">
   
-
-</div> 
+  [![📧 Email](https://img.shields.io/badge/📧_Email-Reply%20within%2024h-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
+  [![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Open%20to%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
+  [![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-View%20Projects-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+  
+</div>
 
 
   
