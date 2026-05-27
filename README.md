@@ -1,18 +1,16 @@
-
 <h1 align="center">Hey there! 👋 I'm Ali </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=58A6FF&center=true&vCenter=true&width=550&lines=Ali+Hafezi+%F0%9F%91%8B;ML+Engineer+%7C+Ensemble+Learning;Practical+AI+for+Real+World" alt="Ali Hafezi">
-</h1>
-
-<p align="center"><em>M.Sc. Electrical Engineering • University of Tehran</em></p>
-
 <div align="center">
-  [![Email](https://img.shields.io/badge/📧-Email-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
-  [![Portfolio](https://img.shields.io/badge/🌐-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+  <a href="mailto:alihafezi.data@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/email--v1.png" alt="email" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/alihafezii/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://alihafezi.site">
+    <img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="website" height="40" width="40" />
+  </a>
 </div>
-
 <h3 align="center">Data Scientist who loves solving real-world puzzles! 🧩</h3>
 
 <p align="center">
