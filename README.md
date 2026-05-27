@@ -16,7 +16,7 @@
 <h3 align="center">Data Scientist who loves solving real-world puzzles! 🧩</h3>
 
 <p align="center">
-  <img src="images/cover.png" alt="Welcome animation" width="300">
+  <img src="images/cover.png" alt="Welcome animation" width="auto">
 </p>
 
 ## A Bit About Me 😊
