@@ -8,19 +8,13 @@
 </p>
 
 <div align="center"> 
-  
-  <a href="mailto:alihafezi.data@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/alihafezii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://alihafezi.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Portfolio">
-  </a>
-  
+
+  [![Email](https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B)](mailto:alihafezi.data@gmail.com)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Falihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B)](https://www.linkedin.com/in/alihafezii/)
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://alihafezi.site)
+
 </div>
 
 
