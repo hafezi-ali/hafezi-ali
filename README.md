@@ -6,16 +6,24 @@
   <img src="images/cover.png" alt="Welcome animation" width="auto">
 </p>
 
-<div align="center"> 
-  <a href="mailto:alihafezi.data@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/> 
-  </a> 
-  <a href="https://www.linkedin.com/in/alihafezii/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-alihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/> 
-  </a> 
-  <a href="https://alihafezi.site"> 
-    <img src="https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="Portfolio"/> 
-  </a> 
+<div align="center">
+
+<a href="mailto:alihafezi.data@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/email-alihafezi.data%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white&labelColor=111827"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/alihafezii/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-alihafezii-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=111827"/>
+</a>
+
+&nbsp;
+
+<a href="https://alihafezi.site" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/portfolio-alihafezi.site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111827"/>
+</a>
+
 </div>
 
 <br>
