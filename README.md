@@ -6,33 +6,17 @@
   <img src="images/cover.png" alt="Welcome animation" width="auto">
 </p>
 
-<div align="center"> 
-  <a href="mailto:alihafezi.data@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/> 
-  </a> 
-  <a href="https://www.linkedin.com/in/alihafezii/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-alihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/> 
-  </a> 
-  <a href="https://alihafezi.site"> 
-    <img src="https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="Portfolio"/> 
-  </a> 
-</div>
+<div align="center"> <a href="mailto:alihafezi.data@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-alihafezi.data%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white&labelColor=111827&v=1"/> </a> <a href="https://www.linkedin.com/in/alihafezii/"> <img src="https://img.shields.io/badge/LINKEDIN-alihafezii-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=111827&v=1"/> </a> <a href="https://alihafezi.site"> <img src="https://img.shields.io/badge/PORTFOLIO-alihafezi.site-7C3AED?style=flat&logo=googlechrome&logoColor=white&labelColor=111827&v=1"/> </a> </div> 
 
 <br>
 
-<img src="https://img.shields.io/badge/ABOUT%20ME-02777d?style=for-the-badge" height="28" alt="About Me Section">
-
-<br><br>
+## 💻 About Me
 
 Hey! I'm a Data Scientist and ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love the challenge of bridging the gap between complex algorithms and practical, real-world solutions. 
 
 My passion lies in architecting AI systems that are both mathematically rigorous and genuinely helpful. Whether I'm training a new machine learning model, developing business intelligence dashboards, or optimizing AI workflows, my goal is always to turn raw data into smart, actionable decisions!
 
-<br>
-
-<img src="https://img.shields.io/badge/TECHNICAL%20FOCUS-02777d?style=for-the-badge" height="28" alt="Technical Focus Section">
-
-<br><br>
+## 🎯 Technical Focus
 
 *   **Machine Learning & Deep Learning:** Building predictive models and exploring neural network architectures.
 *   **Data Science & Business Intelligence:** Extracting meaningful signals from noisy data and crafting clear visual stories.
@@ -40,22 +24,14 @@ My passion lies in architecting AI systems that are both mathematically rigorous
 *   **Ensemble Methods:** Designing creative, combined architectures to maximize model accuracy and stability.
 *   **Computer Vision:** Developing robust image processing and pattern recognition pipelines.
 
-<br>
-
-<img src="https://img.shields.io/badge/CURRENT%20PROJECTS-02777d?style=for-the-badge" height="28" alt="Current Projects Section">
-
-<br><br>
+## 📈 Current Projects
 
 *   **Advanced Ensemble Learning:** Exploring new frontiers in combined model methodologies with some exciting experiments.
 *   **Applied AI Solutions:** Architecting self-contained, real-world AI applications and optimizing local data environments.
 *   **Full-Stack Integration:** Creating robust web solutions and responsive REST APIs using the Django framework.
 *   **Data Strategy:** Collaborating on freelance analytics and BI tasks to help platforms leverage their data effectively.
 
-<br>
-
-<img src="https://img.shields.io/badge/TECH%20STACK%20%26%20TOOLS-02777d?style=for-the-badge" height="28" alt="Tech Stack Section">
-
-<br><br>
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   
@@ -86,11 +62,7 @@ My passion lies in architecting AI systems that are both mathematically rigorous
 
 </div>
 
-<br>
-
-<img src="https://img.shields.io/badge/BEYOND%20THE%20CODE-02777d?style=for-the-badge" height="28" alt="Beyond Code Section">
-
-<br><br>
+## 🌐 Beyond the Code
 
 Outside the realm of machine learning, I balance my technical work with a deep appreciation for the arts, nature, and culture. I'm an avid hiker and ecotourism enthusiast, and I love spending my downtime delving into historical studies, learning about diverse cultures, and immersing myself in thought-provoking films. 
 
@@ -106,8 +78,6 @@ I also enjoy expressing myself through music! Feel free to explore some of my fa
 ---
 
 <div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-02777d?style=for-the-badge" height="28" alt="Connect Section">
-  <br><br>
-  <p>Feel free to reach out if you want to collaborate on AI projects, discuss data strategy, or share your favorite hiking trail recommendations.</p>
+  <h3>📬 Let's Connect</h3>
+  <p>Feel free to reach out if you want to collaborate on AI projects, discuss data strategy, or share your favorite hiking trail recommendations!</p>
 </div>
