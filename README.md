@@ -1,144 +1,113 @@
-<!-- Header Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=4000&color=02777d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Ali;Data+Scientist+%7C+Statistical+Modeling;Turning+Data+into+Decisions" alt="Hi there! I'm Ali - Data Scientist">
+</h1>
+
+<p align="center">
+  <img src="images/cover.png" alt="Welcome animation" width="auto">
+</p>
+
+<div align="center"> 
+  <a href="mailto:alihafezi.data@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-alihafezi.data%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/alihafezii/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-alihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://alihafezi.site"> 
+    <img src="https://img.shields.io/badge/Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="Portfolio"/> 
+  </a> 
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/ABOUT%20ME-02777d?style=for-the-badge" height="28" alt="About Me Section">
+
+<br><br>
+
+Hey! I'm a Data Scientist and ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love the challenge of bridging the gap between complex algorithms and practical, real-world solutions. 
+
+My passion lies in architecting AI systems that are both mathematically rigorous and genuinely helpful. Whether I'm training a new machine learning model, developing business intelligence dashboards, or optimizing AI workflows, my goal is always to turn raw data into smart, actionable decisions!
+
+<br>
+
+<img src="https://img.shields.io/badge/TECHNICAL%20FOCUS-02777d?style=for-the-badge" height="28" alt="Technical Focus Section">
+
+<br><br>
+
+*   **Machine Learning & Deep Learning:** Building predictive models and exploring neural network architectures.
+*   **Data Science & Business Intelligence:** Extracting meaningful signals from noisy data and crafting clear visual stories.
+*   **AI & Large Language Models:** Fine-tuning Transformers and integrating intelligent models into practical applications.
+*   **Ensemble Methods:** Designing creative, combined architectures to maximize model accuracy and stability.
+*   **Computer Vision:** Developing robust image processing and pattern recognition pipelines.
+
+<br>
+
+<img src="https://img.shields.io/badge/CURRENT%20PROJECTS-02777d?style=for-the-badge" height="28" alt="Current Projects Section">
+
+<br><br>
+
+*   **Advanced Ensemble Learning:** Exploring new frontiers in combined model methodologies with some exciting experiments.
+*   **Applied AI Solutions:** Architecting self-contained, real-world AI applications and optimizing local data environments.
+*   **Full-Stack Integration:** Creating robust web solutions and responsive REST APIs using the Django framework.
+*   **Data Strategy:** Collaborating on freelance analytics and BI tasks to help platforms leverage their data effectively.
+
+<br>
+
+<img src="https://img.shields.io/badge/TECH%20STACK%20%26%20TOOLS-02777d?style=for-the-badge" height="28" alt="Tech Stack Section">
+
+<br><br>
+
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&color=02777d&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Ali;Data+Scientist+%7C+Statistical+Modeling;Turning+Data+into+Strategic+Decisions" alt="Typing SVG" />
-  
-  <br />
-  
-  <img src="images/cover.png" alt="Profile Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
-  
-  <br /><br />
-  
-  <!-- Contact Badges -->
-  <a href="mailto:alihafezi.data@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-alihafezi.data@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" />
+**Languages & Scripting**<br>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" title="Bash" height="40" width="40" />
+
+<br><br>**Machine Learning & Data Science**<br>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" height="40" width="40" />
+<img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="PyTorch" title="PyTorch" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" height="40" width="40" />
+
+<br><br>**Backend & Databases**<br>
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" height="40" width="40" />
+
+<br><br>**DevOps & Infrastructure**<br>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" height="40" width="40" />
+<img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX" title="LaTeX" height="40" width="40" />
+
+</div>
+
+<br>
+
+<img src="https://img.shields.io/badge/BEYOND%20THE%20CODE-02777d?style=for-the-badge" height="28" alt="Beyond Code Section">
+
+<br><br>
+
+Outside the realm of machine learning, I balance my technical work with a deep appreciation for the arts, nature, and culture. I'm an avid hiker and ecotourism enthusiast, and I love spending my downtime delving into historical studies, learning about diverse cultures, and immersing myself in thought-provoking films. 
+
+I also enjoy expressing myself through music! Feel free to explore some of my favorite collected albums over on my SoundCloud profile.
+
+<div align="center">
+  <br>
+  <a href="https://soundcloud.com/a-hfz-697801203?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/soundcloud.png" alt="SoundCloud" height="45" width="45" />
   </a>
-  <a href="https://www.linkedin.com/in/alihafezii/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-alihafezii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
-  </a>
-  <a href="https://alihafezi.site">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-alihafezi.site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e293b" alt="Portfolio" />
-  </a>
-  
-</div>
-
----
-
-## 👨‍💻 Professional Summary
-
-> **Data Scientist & ML Engineer** with a Master's in Electrical Engineering from the University of Tehran. Specialized in developing scalable machine learning solutions that bridge statistical rigor with real-world impact. Passionate about transforming complex data into actionable insights and production-ready AI systems.
-
-<div align="center">
-  
-  🔭 Currently exploring **ensemble learning architectures**  
-  🌱 Focused on **interpretable AI** and **statistical modeling**  
-  💬 Let's discuss: `MLOps` • `LLM Applications` • `Computer Vision`  
-  📫 Reach me: **alihafezi.data@gmail.com**
-  
-</div>
-
----
-
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-| **Core Competencies** | **Tools & Frameworks** | **Infrastructure** |
-|----------------------|------------------------|-------------------|
-| Machine Learning | Python • PyTorch • TensorFlow | Docker • Linux • Bash |
-| Statistical Modeling | Scikit-learn • Statsmodels • R | Git • CI/CD • REST APIs |
-| Deep Learning | Transformers • LLMs • NLP | PostgreSQL • MySQL • MongoDB |
-| Computer Vision | OpenCV • CNN Architectures | AWS • GCP • Kubernetes |
-| Data Engineering | Pandas • NumPy • SQL | Django • FastAPI • Jupyter |
-
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" height="40" />
-  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow" height="40" />
-  <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" alt="PyTorch" height="40" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" height="40" />
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" height="40" />
-  <img src="https://img.icons8.com/color/48/django.png" alt="Django" height="40" />
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="40" />
-  <img src="https://img.icons8.com/color/48/latex.png" alt="LaTeX" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="40" />
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" height="40" />
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" height="40" />
-  <br /><br />
-</div>
-
----
-
-## 🚀 Current Focus
-
-<details open>
-  <summary><b>Active Projects & Research</b></summary>
-  
-  - 🔬 **Ensemble Learning Optimization**: Developing novel stacking methods for improved model robustness
-  - 🤖 **LLM Integration**: Building domain-specific fine-tuning pipelines for enterprise applications
-  - 📊 **MLOps Implementation**: Designing end-to-end deployment workflows with monitoring & drift detection
-  - 🌐 **Full-Stack AI Solutions**: Creating Django-backed platforms with RESTful APIs for model serving
-
-</details>
-
----
-
-## 📈 Featured Work
-
-<div align="center">
-
-<!-- Optional: Add GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=alihafezii&show_icons=true&theme=github_dark&hide_border=true&title_color=02777d&icon_color=02777d" alt="GitHub Stats" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihafezii&layout=compact&theme=github_dark&hide_border=true&title_color=02777d&text_color=333" alt="Top Languages" height="160" />
-
-</div>
-
-> 💡 *Tip: Replace with actual project cards linking to your best repos for maximum impact*
-
----
-
-## 🌿 Beyond Code
-
-<div align="center">
-  
-  | 🎵 Music Curation | 🥾 Outdoor Adventures | 📚 Historical Research | 🎬 Film Analysis |
-  |-----------------|---------------------|----------------------|-----------------|
-  | Exploring global sounds & curating thematic playlists | Hiking, ecotourism & nature photography | Studying cultural evolution & historical patterns | Analyzing narrative structures in cinema |
-
-  <br />
-  
-  <a href="https://soundcloud.com/a-hfz-697801203" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_SoundCloud-Explore_My_Playlists-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-  </a>
-  
 </div>
 
 ---
 
 <div align="center">
-  
-  ## 🤝 Let's Connect
-  
-  Open to collaborations on innovative AI projects, research partnerships, or knowledge exchange. Whether you have a challenging dataset, an intriguing research question, or just want to discuss the latest in ML — I'd love to hear from you!
-  
-  <br />
-  
-  <a href="mailto:alihafezi.data@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alihafezii/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://alihafezi.site">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <br /><br />
-  
-  <sub>✨ *Crafting intelligent solutions, one algorithm at a time.* ✨</sub>
-  
+  <br>
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-02777d?style=for-the-badge" height="28" alt="Connect Section">
+  <br><br>
+  <p>Feel free to reach out if you want to collaborate on AI projects, discuss data strategy, or share your favorite hiking trail recommendations.</p>
 </div>
