@@ -20,28 +20,26 @@
 
 <br>
 
-## 👋 A Bit About Me
+## 👨‍💻 Overview
 
-Hey! I'm a Data Scientist and ML enthusiast with a Master's in Electrical Engineering from the University of Tehran. I love the challenge of bridging the gap between complex algorithms and practical, real-world solutions. 
+I am a Data Scientist and Machine Learning practitioner with a Master's degree in Electrical Engineering from the University of Tehran. I specialize in designing scalable machine learning models and leveraging statistical analysis to solve complex problems and drive data-informed decisions. My focus is on architecting AI systems that are mathematically rigorous, highly performant, and practically applicable.
 
-My passion lies in architecting AI systems that are both mathematically rigorous and genuinely helpful. Whether I'm training a new machine learning model, developing business intelligence dashboards, or optimizing AI workflows, my goal is always to turn raw data into smart, actionable decisions!
+## 🎯 Core Competencies
 
-## ✨ What I Love Working With
+*   **Machine Learning & Deep Learning:** Developing predictive models and neural network architectures.
+*   **Statistical Modeling & Pattern Recognition:** Extracting meaningful signals from noisy, complex datasets.
+*   **Natural Language Processing:** Implementing and fine-tuning Large Language Models (LLMs) and Transformers.
+*   **Computer Vision:** Building robust image processing and recognition pipelines.
+*   **Advanced Ensemble Methods:** Designing creative ensemble architectures to maximize model accuracy.
 
-*   🧠 **Machine Learning & Deep Learning:** Building predictive models and exploring neural network architectures.
-*   📊 **Data Science & Business Intelligence:** Extracting meaningful signals from noisy data and crafting clear visual stories.
-*   🤖 **AI & LLMs:** Fine-tuning Large Language Models, Transformers, and integrating AI into practical applications.
-*   🎨 **Ensemble Methods:** Designing creative, combined architectures to maximize model accuracy.
-*   👁️ **Computer Vision:** Developing robust image processing and pattern recognition pipelines.
+## 🚀 Current Initiatives
 
-## 🚀 What I'm Up To Now
+*   **Research & Development:** Exploring and testing new frontiers in ensemble learning methodologies.
+*   **Applied AI:** Architecting end-to-end machine learning models to solve tangible, real-world industry challenges.
+*   **Backend Engineering:** Developing robust web solutions and RESTful APIs using the Django framework.
+*   **Data Strategy:** Translating complex data into compelling narratives and actionable business intelligence.
 
-*   🔍 Exploring new frontiers in ensemble learning methodologies with some exciting experiments!
-*   🛠️ Architecting self-contained, real-world AI applications and optimizing local data environments.
-*   💻 Creating awesome web solutions and REST APIs using the Django framework.
-*   📈 Collaborating on freelance and data projects to help businesses leverage their analytics effectively.
-
-## 🛠️ My Toolbox
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   
@@ -57,7 +55,6 @@ My passion lies in architecting AI systems that are both mathematically rigorous
 <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" height="40" width="40" />
 <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" height="40" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI" height="40" width="40" />
 
 <br><br>**Backend & Databases**<br>
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django" height="40" width="40" />
@@ -72,11 +69,11 @@ My passion lies in architecting AI systems that are both mathematically rigorous
 
 </div>
 
-## 🌱 When I'm Not Coding...
+## 🌱 Beyond the Code
 
-Outside the realm of machine learning, I balance my technical work with a deep appreciation for the arts, nature, and culture. I'm an avid hiker and ecotourism enthusiast, and I love spending my downtime delving into historical studies, learning about diverse cultures, and immersing myself in thought-provoking films. 
+Outside the realm of data science, I balance my technical work with a deep appreciation for the arts, nature, and culture. I am an avid hiker and ecotourism enthusiast, and I spend my downtime exploring historical studies and thought-provoking cinema. 
 
-I also enjoy expressing myself through music! Feel free to explore some of my favorite collected albums over on my <a href="https://soundcloud.com/a-hfz-697801203?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">SoundCloud profile</a>.
+I also express myself through music—feel free to explore some of my curated sets on my <a href="https://soundcloud.com/a-hfz-697801203?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">SoundCloud profile</a>.
 
 <div align="center">
   <br>
@@ -88,6 +85,5 @@ I also enjoy expressing myself through music! Feel free to explore some of my fa
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
-  <b>Feel free to reach out if you want to collaborate on AI projects, chat about data strategy, or share your favorite hiking trail recommendations! 😊</b>
+  <b>Open to collaborations, networking, and discussing the future of AI. Let's build something impactful together!</b>
 </div>
