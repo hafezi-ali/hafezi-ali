@@ -1,3 +1,4 @@
+<details>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=4000&color=02777d&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Ali;Data+Scientist+%7C+Statistical+Modeling;Turning+Data+into+Decisions" alt="Hi there! I'm Ali - Data Scientist">
 </h1>
@@ -81,3 +82,4 @@ I also enjoy expressing myself through music! Feel free to explore some of my fa
   <h3>📬 Let's Connect</h3>
   <p>Feel free to reach out if you want to collaborate on AI projects, discuss data strategy, or share your favorite hiking trail recommendations!</p>
 </div>
+</details>
