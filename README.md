@@ -26,7 +26,7 @@ My passion lies in architecting AI systems that are both mathematically rigorous
 
 ## 📈 Current Projects
 
-*   **Advanced Ensemble Learning:** Exploring new frontiers in combined model methodologies with some exciting experiments.
+*   **Advanced Ensemble & Mixture of Expert Architectures:** Exploring new frontiers in combined model methodologies, specializing in Dynamic Ensemble Models and    sparse Mixture of Experts (MoE) to optimize gating networks and expert routing for high-efficiency LLMs.
 *   **Applied AI Solutions:** Architecting self-contained, real-world AI applications and optimizing local data environments.
 *   **Full-Stack Integration:** Creating robust web solutions and responsive REST APIs using the Django framework.
 *   **Data Strategy:** Collaborating on freelance analytics and BI tasks to help platforms leverage their data effectively.
